@@ -24,9 +24,10 @@ This project leverages a robust set of technologies to deliver a smooth and effi
 # Run Instructions
 
 ## Prerequisites
-Install Node.js and npm
 
-install yarn
+It is assumed that you have installed **Node.js** and **npm**
+
+Install **yarn**
 
 ```
 npm install -g yarn
@@ -38,7 +39,7 @@ npm install -g yarn
 
 ```bash
 
-cd UserListApp
+cd users-list-app
 
 ```
 
