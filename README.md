@@ -88,6 +88,7 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 <img src="https://github.com/vladRDevico/users-list-app/assets/163549901/3218a3c7-41ab-41bf-a675-09dfb3e8bfcb" alt="image" style="width: 200px; height: auto; margin-right: 20px;">
 
+<img src="https://github.com/vladRDevico/users-list-app/assets/163549901/1339315e-e3cb-4504-a8c9-5410cc34d60f" alt="image" style="width: 200px; height: auto; margin-right: 20px;">
 
 ## Dark theme Android 🤖🌌
 <img src="https://github.com/vladRDevico/users-list-app/assets/163549901/e1dd0ae9-fbc9-4bc1-bfc2-31a510a308dc" alt="image" style="width: 200px; height: auto; margin-right: 20px;">
